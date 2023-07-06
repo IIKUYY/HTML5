@@ -1,8 +1,8 @@
-function supports_geolocation() {
+function supportsGeolocation() {
     return 'geolocation' in navigator;
-  }
-  window.onload = function() {
-    if(supports_geolocation()){
+    }
+    window.onload = function() {
+    if(supportsGeolocation()){
         document.write("geolocation tiene soporte")
     }
     else{

@@ -16,14 +16,14 @@ Modernizr es una librería `open-source` de JavaScript, licenciada MIT que detec
 ```
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <title>Dive Into HTML5</title>
-  <script src="modernizr.min.js"></script>
-</head>
-<body>
-  ...
-</body>
+  <head>
+    <meta charset="utf-8">
+    <title>Dive Into HTML5</title>
+    <script src="modernizr.min.js"></script>
+  </head>
+  <body>
+    ...
+  </body>
 </html>
 ```
 
