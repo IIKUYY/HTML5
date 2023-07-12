@@ -1,17 +1,18 @@
 var canvas = document.getElementById("c"); // Las dos primeras lineas son las necesarias mencionadas anteriormente
 var context = canvas.getContext("2d");
 
-for (var x = 0.5; x < 500; x += 10) { // Este pedazo de código es para dibujar la cuadricula
-    context.moveTo(x, 0);
-    context.lineTo(x, 375);
-    context.lineWidth=1;
-    context.strokeStyle = "#eee";
-    context.stroke();
+for (var x = 0.5; x < 500; x += 10) {
+  // Este pedazo de código es para dibujar la cuadricula
+  context.moveTo(x, 0);
+  context.lineTo(x, 375);
+  context.lineWidth = 1;
+  context.strokeStyle = "#eee";
+  context.stroke();
 }
 
 context.beginPath(); // Esta linea es para reiniciar los paths
 
-context.moveTo(0, 40);  // esto dibuja la primera flecha
+context.moveTo(0, 40); // esto dibuja la primera flecha
 context.lineTo(240, 40);
 context.moveTo(260, 40);
 context.lineTo(500, 40);
