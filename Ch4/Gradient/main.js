@@ -14,7 +14,7 @@ myGradient.addColorStop(1, "white");
 context.fillStyle = myGradient;
 context.fillRect(0, 0, 300, 225);
 
-var canvas = document.getElementById("grd");  //Diagonal
+var canvas = document.getElementById("grd"); //Diagonal
 var context = canvas.getContext("2d");
 var myGradient = context.createLinearGradient(0, 0, 300, 225);
 myGradient.addColorStop(0, "black");
