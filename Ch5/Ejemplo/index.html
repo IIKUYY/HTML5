@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Video</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <header
+            id="titulo">
+            <h1>
+                Este es un ejemplo de video
+            </h1>
+        </header>
+        <video 
+            id="video" 
+            width="320" 
+            height="240" 
+            preload 
+            controls>
+                <source src="pr6.webm" type="video/webm; codecs=vp8,vorbis"/>
+                <source src="pr6.ogv" type="video/ogg; codecs=theora,vorbis"/>
+                <source src="pr6.mp4"/>
+                <object width="320" height="240" type="application/x-shockwave-flash" data="http://releases.flowplayer.org/swf/flowplayer-3.2.1.swf">
+                    <param name="movie" value="http://releases.flowplayer.org/swf/flowplayer-3.2.1.swf"/>
+                    <param name="allowfullscreen" value="true"/>
+                    <param name="flashvars" value="config={'clip':{'url':'http://diveintohtml5.info/i/pr6.mp4','autoPlay':false,'autoBuffering':true}}"/>
+                    <p>
+                        Download video as <a href="i/pr6.mp4">MP4</a>
+                        , <a href="i/pr6.webm">WebM</a>
+                        , or <a href="i/pr6.ogv">Ogg</a>
+                        .
+                    </p>
+                </object>
+        </video>
+    </body>
+</html>
