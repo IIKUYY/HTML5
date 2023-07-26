@@ -6,4 +6,4 @@
 
 # [Video en WEBM](https://github.com/IIKUYY/HTML5/blob/main/Ch5/Ejemplo/pr6.webm)
 
-# [Capturas](https://github.com/IIKUYY/HTML5/blob/main/Ch5/Ejemplo/Capturas)
+# [Capturas](https://github.com/IIKUYY/HTML5/blob/main/Ch5/Ejemplo/Assets)

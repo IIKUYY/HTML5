@@ -1,0 +1,1 @@
+## Se pueden observar las imágenes de ejemplo del capitulo en esta carpeta
