@@ -111,7 +111,7 @@ Como vimos antes, getCurrentPosition() muestra la ubicación actual, pero tambi�
 
 Versiones anteriores a la 9 no tiene esta API, pero si configuras bien tu `fallback`, este debería cubrir estas situaciones, ademas de marcas de celulares más pequeñas cuentan con sus API´s únicas diferentes a la de la W3C.
 
-## Geoposition,js
+## Geoposition.js
 
 geoPosition.js es una librería de JavaScript de código abierto que aligera la diferencia entra las API´s de los móviles y de la W3C, para usarla solo debes colocar el `<Script>` de esta en el head
 
