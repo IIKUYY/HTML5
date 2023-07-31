@@ -7,3 +7,5 @@
 # [Método 3](https://github.com/IIKUYY/HTML5/tree/main/Ch2/Metodos/Metodo3)
 
 # [Método 4](https://github.com/IIKUYY/HTML5/tree/main/Ch2/Metodos/Metodo4)
+
+# [Screenshots](https://github.com/IIKUYY/HTML5/tree/main/Ch2/Assets)
