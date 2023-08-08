@@ -21,3 +21,5 @@
 [Capitulo 8](https://github.com/IIKUYY/HTML5/tree/main/Ch8)
 
 [Capitulo 9](https://github.com/IIKUYY/HTML5/tree/main/Ch9)
+
+[Capitulo 10](https://github.com/IIKUYY/HTML5/tree/main/Ch10)
