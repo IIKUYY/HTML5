@@ -2,4 +2,4 @@
 
 # [Ejemplo](https://github.com/IIKUYY/HTML5/tree/main/Ch10/Ejemplo)
 
-# [Assets]](https://github.com/IIKUYY/HTML5/tree/main/Ch10/Assets)
+# [Assets](https://github.com/IIKUYY/HTML5/tree/main/Ch10/Assets)
